@@ -1,3 +1,4 @@
 Nombre | Correo | Usuario de GitHub
 Victor Emilio | bvictoremilio8@gmail.com | bvictor-cmd
 AAron | aaronpalominorico2@gmail.com | aaronpalominoricoz-dev
+Edwin Andres | 2024310164@uteq.edu.mx | EdwinPerez22
